@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_ce047e831e6db978f8b8da2bce7f9d90f4dfe919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_8feb41915ca9663fd7901e948db04ca6297a51ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_762974f087c5d1d7175d593dab4e23d42988de15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_e5cffa7e32d1c6575163f16893c108e132c9149e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_0ce62c903b5d2bdd4c5e1648e1e3fef3b28760bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="71097357ad0b7bc9e7301ebe721c4f2ad89084af">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b2251c854ffcff5df4233384e21e296634f0691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_0b9882047e041f422d9d0ee180ed9f80ed8c83d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_91991da1913671ac06ab488787aed78f697b4b33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_ceb4d0fa38b896d11b1ff58b9e908dcfb244369d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_501d7fa0f85eeb88516c2c538cece18004840d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cceaca54329a43a1ba95b3740649381abd5a15df">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a275df1fb5c2792fbeca15738708643c2e0fbefe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ogaclejapan.smarttablayout-utils-v4-1.6.1_da2c8374480b2bebe18590cface46483406791c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\AndroidWorkspace\SimpleTabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_a9475391a4f158988c37673a8034e64383db10db\classes.dex" />
+    </item>
+
+</items>
